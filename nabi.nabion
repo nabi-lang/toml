@@ -1,0 +1,12 @@
+Package {
+    name: "toml",
+    version: "0.1.0",
+    nabi_version: "0.1.0",
+    toolchain: "0.1",
+    description: "TOML 1.1.0: Value tree with typed datetimes, parser with line:col errors, writer, typed encode/decode",
+    license: "MIT OR Apache-2.0",
+    repository: "https://github.com/nabi-lang/toml",
+    keywords: ["toml", "config", "parser", "serialization"],
+    categories: ["encoding", "config", "parser-implementations"],
+    deps: {},
+}
