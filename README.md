@@ -30,7 +30,7 @@ reads TOML 1.1.0 by default; pass `Version::V1_0` to read strictly as 1.0.
 
 ## Docs
 
-https://packages.nabi-lang.org/packages/toml/latest/docs
+https://docs.nabi-lang.org/packages/toml/latest
 
 ## License
 
